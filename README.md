@@ -1,4 +1,3 @@
-<img width="1036" height="283" alt="image" src="https://github.com/user-attachments/assets/53a2aa40-90ef-430a-b697-15de5e6faace" /># iot-smart-parking
 Варіант 3: Розумне паркування
 
 1. Спосіб визначення зайнятості місця
@@ -80,3 +79,10 @@ graph TD
 Налаштування сервера і софту (базове): ~20 тис. грн.
 Загальна орієнтовна вартість розгортання: ~2.420 млн. грн.
 Хмарний хостинг та мобільний зв'язок будуть відноситися до щомісячних витрат.
+
+6. Джерела
+
+1) ITU-T Y.2060 - Overview of the Internet of Things (Дата звернення: 11.09.2026).
+2) LoRa Alliance - LoRaWAN Specification (Дата звернення: 11.09.2026).
+3) https://shop-gsm.ua/catalog/shlyuzy-iot-lorawan/?srsltid=AfmBOopwC3Ka6C6eFW5aQ8WAl8aEfGZchfSbOYZX5HTc7El5_VkBPh9d (Дата звернення: 11.09.2026).
+4) https://www.rabotniki.ua/uk/price/kiev (Дата звернення: 11.09.2026).
